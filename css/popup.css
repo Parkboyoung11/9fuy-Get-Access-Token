@@ -1,0 +1,11 @@
+body {
+	width: 600px;
+}
+
+div#main {
+	margin: 15px 5px 0px;
+}
+
+p {
+	margin-top: 10px;
+}
